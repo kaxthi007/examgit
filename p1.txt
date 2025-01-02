@@ -1,3 +1,8 @@
 good evening
+<<<<<<< HEAD
 good night 
 good morning
+=======
+good night
+hi
+>>>>>>> 275ada0 (feature branch created)
