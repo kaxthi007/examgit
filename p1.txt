@@ -1,8 +1,12 @@
 good evening
 <<<<<<< HEAD
+<<<<<<< HEAD
 good night how are you  hey 
 good morning
 =======
 good night
 hi
 >>>>>>> 275ada0 (feature branch created)
+=======
+good night
+>>>>>>> a1d3d0d (feature branch commit)
